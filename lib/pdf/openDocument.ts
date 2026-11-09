@@ -1,0 +1,1 @@
+export { isPdfFile } from "./fileGuards";
